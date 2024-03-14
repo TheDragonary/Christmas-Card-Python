@@ -21,6 +21,18 @@ Clone the repo
 ```
 git clone https://github.com/TheDragonary/Christmas-Card-Python
 ```
+Install requirements
+```
+pip install -r requirements.txt
+```
+But really you just need Pygame, so you can just type
+```
+pip install pygame
+```
+You also need cx-freeze to be able to build the program
+```
+pip install cx-freeze
+```
 Run the setup file
 ```
 python setup.py build
